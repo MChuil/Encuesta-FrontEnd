@@ -1,0 +1,62 @@
+[
+    {
+        "tema" : "DEFINICIÓN CONCEPTUAL",
+        "subtema" : "",
+        "pregunta" : "El Programa corresponde a estudios de nivel de Magíster en el ámbito Matemático.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "DEFINICIÓN CONCEPTUAL",
+        "subtema" : "",
+        "pregunta" : "El Programa facilita la posibilidad de  inserción en el ámbito profesional de las Matemáticas.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Entorno Institucional",
+        "pregunta" : "El Programa está sujeto a evaluación de sus procesos.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Entorno Institucional",
+        "pregunta" : "El registro académico de mis actividades (cursos dictados, actas de curso, publicaciones, etc.) está apropiadamente resguardado.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Entorno Institucional",
+        "pregunta" : "El Programa cuenta con mecanismos establecidos para la resolución de mis requerimientos.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Sistema de Organización Interna",
+        "pregunta" : "Puedo identificar a un Director del Programa con funciones y atribuciones pertinentes al cargo.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Sistema de Organización Interna",
+        "pregunta" : "Cuando tengo consultas, conozco cómo deben ser canalizadas.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Sistema de Organización Interna",
+        "pregunta" : "Mis consultas han sido respondidas apropiadamente en tiempo.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Sistema de Organización Interna",
+        "pregunta" : "Mis consultas han sido respondidas apropiadamente, en cuanto a calidad de  respuesta.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    },
+    {
+        "tema" : "CONTEXTO INSTITUCIONAL",
+        "subtema" : "Sistema de Organización Interna",
+        "pregunta" : "Identifico las formas de participación en las decisiones, que existen en el Programa.",
+        "respuestas" : [ "1", "2", "3", "4", "5" ]
+    }
+]

@@ -1,0 +1,21 @@
+[{
+    "titulo": "Alumnos",
+    "indicaciones": [
+        "Califique con 1, cuando su respuesta es totalmente en desacuerdo con la afirmación",
+        "Califique con 2, cuando está mayormente en desacuerdo con la afirmación",
+        "Califique con 3, si no está ni en acuerdo ni en desacuerdo",
+        "Califique con 4, si está mayormente de acuerdo con la afirmación.",
+        "Califique con 5, si está totalmente de acuerdo con la afirmación."
+    ]
+},
+{
+    "titulo": "Profesores",
+    "indicaciones": [
+        "Marque con una cruz la alternativa que usted haya elegido.",
+        "Califique con 1, cuando su respuesta es totalmente en desacuerdo con la afirmación.",
+        "Califique con 2, cuando está mayormente en desacuerdo con la afirmación.",
+        "Califique con 3, si no está ni en acuerdo ni en desacuerdo.",
+        "Califique con 4, si está mayormente de acuerdo con la afirmación.",
+        "Califique con 5, si está totalmente de acuerdo con la afirmación."
+    ]
+}]

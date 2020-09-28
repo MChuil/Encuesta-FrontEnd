@@ -1,0 +1,28 @@
+<section class="container mt-5" id="dashboard">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="form-group">
+                <label for="itemSelect">Seleccione la encuesta</label>
+                <select name="tipo" class="form-control" [(ngModel)]="itemSelect" (change)="selectEncuesta($event.target.value)">
+                    <option [value]="" disabled selected>Seleccionar</option>
+                    <option [value]="item['titulo']" *ngFor="let item of encuestaService.dataEncuesta;let i = index;">{{ item['titulo'] }}</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="col-12" *ngFor="let item of encuestaService.dataEncuesta;let i = index;" >
+            <div *ngIf="item['titulo'] == itemSelect">
+                <p><strong>Indicaciones</strong></p>
+                <ul>
+                    <div *ngFor="let ind of item['indicaciones']">
+                            <li>{{ ind }}</li>
+                    </div>
+                </ul>
+            </div>
+        </div>
+        <div class="col-12 col-md-4 offset-md-4">
+            <a routerLink="/encuesta/{{ itemSelect }}" class="btn btn-primary btn-block">INICIAR</a>
+        </div>
+
+    </div>
+</section>
